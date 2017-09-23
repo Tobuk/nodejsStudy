@@ -1,0 +1,19 @@
+{
+  "name": "ndstdy",
+  "version": "1.0.0",
+  "description": "자바스크립트 노드제이에스(node.js) 스터디",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobuk/nodejsStudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "underscore": "^1.8.3"
+  }
+}
